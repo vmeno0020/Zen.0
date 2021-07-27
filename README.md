@@ -1,5 +1,5 @@
 # Zen.0
-A meditation app created to help with stress and anxiety. Uses HTML, CSS, and JavaScript
+A meditation web app created to help with stress and anxiety. Uses HTML, CSS, and JavaScript
 
 Users can choose a time (2, 5, or 10 minutes) and a nature background to meditate along to.
 
